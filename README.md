@@ -2,7 +2,7 @@
 
 Demo: https://react-jackpot.netlify.com/
 
-```js
+```jsx
 <Jackpot
   text="JACKPOT"
   durationInSeconds={5}
