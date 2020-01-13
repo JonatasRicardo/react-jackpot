@@ -1,5 +1,7 @@
 # React Jackpot
 
+<img src="./demo.GIF">
+
 Demo: https://react-jackpot.netlify.com/
 
 ```jsx
